@@ -7,6 +7,7 @@
   <li>Noise Smoothing with Binning</li>
   <li>PCA</li>
   <li>Apriori Algorithm</li>
+  <li>Applying lambda with pandas</li>
 <ol>
   
 ## Datasets
